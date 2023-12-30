@@ -7,9 +7,9 @@ https://www.gov.scot/collections/school-education-statistics/ <br />
 Spreadsheets of output data: <br />
 
 Overall numbers <br />
-https://docs.google.com/spreadsheets/d/1w9nbI7dIBjGmnZpDx39CaFLlXspudaikhz7iCAmX5UE/edit#gid=0 <br />
-Teacher characteristics <br />
 https://docs.google.com/spreadsheets/d/1uftGbdLT1OtL5-bWa47DlWaC7cpocpJP6GtQaitQKbU/edit#gid=0 <br />
+Teacher characteristics <br />
+https://docs.google.com/spreadsheets/d/1w9nbI7dIBjGmnZpDx39CaFLlXspudaikhz7iCAmX5UE/edit#gid=0 <br />
 Pupil characteristics <br />
 https://docs.google.com/spreadsheets/d/10IdPq8E_-wrvMwnzmMwSaKB3LQxQBAiZEMG-J2jYr9I/edit#gid=0 <br />
 
