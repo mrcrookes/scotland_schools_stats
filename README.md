@@ -10,5 +10,7 @@ Overall numbers <br />
 https://docs.google.com/spreadsheets/d/1w9nbI7dIBjGmnZpDx39CaFLlXspudaikhz7iCAmX5UE/edit#gid=0 <br />
 Teacher characteristics <br />
 https://docs.google.com/spreadsheets/d/1uftGbdLT1OtL5-bWa47DlWaC7cpocpJP6GtQaitQKbU/edit#gid=0 <br />
+Pupil characteristics <br />
+https://docs.google.com/spreadsheets/d/10IdPq8E_-wrvMwnzmMwSaKB3LQxQBAiZEMG-J2jYr9I/edit#gid=0 <br />
 
 If you clone this project with all of the excel files from the request in the ./Summary Statistics for Schools in Scotland/ folder it should hopefully work.<br />
