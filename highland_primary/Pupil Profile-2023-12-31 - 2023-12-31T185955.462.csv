@@ -1,0 +1,88 @@
+year,seed_code,la_code,la_name,school_name,school_type,measure_category,measure,value,chart_label
+2021,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,11,
+2021,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),1.4,
+2021,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,7.7,
+2021,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,11,
+2022,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,7,
+2022,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),1.4,
+2022,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,5,
+2022,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,7,
+2022,5118123,270,Highland,Strathconon Primary School,Primary,sex,Female,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,sex,Male,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,stage,P1,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,stage,P2,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,stage,P3,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,stage,P4,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,stage,P5,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,stage,P6,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,stage,P7,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,additional_support_needs,ASN,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,additional_support_needs,No ASN,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,english_additional_language,EAL,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,english_additional_language,No EAL,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,deprivation,SIMD Unknown,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,deprivation,SIMD Q1,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,deprivation,SIMD Q2,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,deprivation,SIMD Q3,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,deprivation,SIMD Q4,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,deprivation,SIMD Q5,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,ethnicity,Ethnicity Not Known,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,ethnicity,Ethnic Minority,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,ethnicity,White UK,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,ethnicity,White Other,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,urban_rural,Urban Rural Not Known,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,urban_rural,Rural,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,urban_rural,Small Town,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,urban_rural,Urban,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,gaelic,Taught in Gaelic,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,gaelic,Not Taught in Gaelic,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,free_school_meals,FSM,c,c
+2022,5118123,270,Highland,Strathconon Primary School,Primary,free_school_meals,No FSM,c,c
+2020,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,15,
+2020,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),1.6,
+2020,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,9.4,
+2020,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,15,
+2019,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,17,
+2019,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),2,
+2019,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,8.7,
+2019,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,17,
+2018,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,17,
+2018,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),2.3,
+2018,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,7.4,
+2018,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,17,
+2017,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,17,
+2017,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),2.3,
+2017,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,7.3,
+2017,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,8.5,
+2016,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,19,
+2016,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),2.4,
+2016,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,8,
+2016,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,9.5,
+2015,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,22,
+2015,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),2.4,
+2015,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,9.2,
+2015,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,11,
+2014,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,19,
+2014,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),3.1,
+2014,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,6.2,
+2014,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,19,
+2013,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,16,
+2013,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),1.7,
+2013,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,9.4,
+2013,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,16,
+2012,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,15,
+2012,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),1.2,
+2012,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,12.5,
+2012,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,15,
+2011,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,14,
+2011,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),1.4,
+2011,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,10.3,
+2011,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,14,
+2010,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,15,
+2010,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),2,
+2010,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,7.5,
+2010,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,15,
+2009,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Numbers,14,
+2009,5118123,270,Highland,Strathconon Primary School,Primary,trend,Teacher Numbers (FTE),1.2,
+2009,5118123,270,Highland,Strathconon Primary School,Primary,trend,Pupil Teacher Ratio,11.7,
+2009,5118123,270,Highland,Strathconon Primary School,Primary,trend,Average Class,14,

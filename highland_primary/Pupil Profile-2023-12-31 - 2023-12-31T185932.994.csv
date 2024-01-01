@@ -1,0 +1,88 @@
+year,seed_code,la_code,la_name,school_name,school_type,measure_category,measure,value,chart_label
+2021,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,30,
+2021,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),2.9,
+2021,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,10.3,
+2021,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,15,
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,17,
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),2.4,
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,7.1,
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,8.5,
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,sex,Female,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,sex,Male,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,stage,P1,29.4%,
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,stage,P2,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,stage,P3,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,stage,P4,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,stage,P5,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,stage,P6,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,stage,P7,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,additional_support_needs,ASN,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,additional_support_needs,No ASN,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,english_additional_language,EAL,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,english_additional_language,No EAL,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,deprivation,SIMD Unknown,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,deprivation,SIMD Q1,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,deprivation,SIMD Q2,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,deprivation,SIMD Q3,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,deprivation,SIMD Q4,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,deprivation,SIMD Q5,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,ethnicity,Ethnicity Not Known,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,ethnicity,Ethnic Minority,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,ethnicity,White UK,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,ethnicity,White Other,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,urban_rural,Urban Rural Not Known,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,urban_rural,Rural,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,urban_rural,Small Town,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,urban_rural,Urban,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,gaelic,Taught in Gaelic,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,gaelic,Not Taught in Gaelic,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,free_school_meals,FSM,c,c
+2022,1003321,270,Highland,St Columba's RC Primary School,Primary,free_school_meals,No FSM,c,c
+2020,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,57,
+2020,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),4.2,
+2020,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,13.6,
+2020,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,19,
+2019,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,64,
+2019,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),3.9,
+2019,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,16.4,
+2019,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,21.3,
+2018,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,74,
+2018,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),4.8,
+2018,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,15.4,
+2018,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,18.5,
+2017,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,93,
+2017,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),6.8,
+2017,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,13.7,
+2017,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,18.6,
+2016,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,100,
+2016,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),6.3,
+2016,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,15.9,
+2016,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,20,
+2015,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,0,
+2015,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),0,
+2015,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,0,
+2015,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,0,
+2014,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,0,
+2014,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),0,
+2014,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,0,
+2014,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,0,
+2013,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,0,
+2013,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),0,
+2013,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,0,
+2013,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,0,
+2012,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,0,
+2012,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),0,
+2012,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,0,
+2012,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,0,
+2011,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,0,
+2011,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),0,
+2011,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,0,
+2011,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,0,
+2010,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,0,
+2010,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),0,
+2010,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,0,
+2010,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,0,
+2009,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Numbers,0,
+2009,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Teacher Numbers (FTE),0,
+2009,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Pupil Teacher Ratio,0,
+2009,1003321,270,Highland,St Columba's RC Primary School,Primary,trend,Average Class,0,

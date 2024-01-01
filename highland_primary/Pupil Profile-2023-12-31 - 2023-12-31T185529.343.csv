@@ -1,0 +1,88 @@
+year,seed_code,la_code,la_name,school_name,school_type,measure_category,measure,value,chart_label
+2021,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,5,
+2021,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.9,
+2021,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,2.7,
+2021,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,5,
+2022,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,4,
+2022,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.9,
+2022,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,2.2,
+2022,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,4,
+2022,5136628,270,Highland,Muck Primary School,Primary,sex,Female,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,sex,Male,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,stage,P1,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,stage,P2,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,stage,P3,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,stage,P4,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,stage,P5,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,stage,P6,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,stage,P7,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,additional_support_needs,ASN,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,additional_support_needs,No ASN,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,english_additional_language,EAL,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,english_additional_language,No EAL,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,deprivation,SIMD Unknown,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,deprivation,SIMD Q1,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,deprivation,SIMD Q2,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,deprivation,SIMD Q3,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,deprivation,SIMD Q4,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,deprivation,SIMD Q5,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,ethnicity,Ethnicity Not Known,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,ethnicity,Ethnic Minority,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,ethnicity,White UK,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,ethnicity,White Other,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,urban_rural,Urban Rural Not Known,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,urban_rural,Rural,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,urban_rural,Small Town,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,urban_rural,Urban,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,gaelic,Taught in Gaelic,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,gaelic,Not Taught in Gaelic,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,free_school_meals,FSM,c,c
+2022,5136628,270,Highland,Muck Primary School,Primary,free_school_meals,No FSM,c,c
+2020,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,7,
+2020,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2020,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,4.5,
+2020,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,7,
+2019,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,5,
+2019,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2019,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,3.3,
+2019,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,5,
+2018,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,6,
+2018,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.6,
+2018,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,3.7,
+2018,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,6,
+2017,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,10,
+2017,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2017,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,6.7,
+2017,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,10,
+2016,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,8,
+2016,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.4,
+2016,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,5.7,
+2016,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,8,
+2015,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,6,
+2015,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2015,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,4,
+2015,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,6,
+2014,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,6,
+2014,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.6,
+2014,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,3.8,
+2014,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,6,
+2013,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,6,
+2013,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.1,
+2013,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,5.5,
+2013,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,6,
+2012,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,8,
+2012,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.6,
+2012,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,5,
+2012,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,8,
+2011,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,6,
+2011,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2011,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,4,
+2011,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,6,
+2010,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,2,
+2010,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1,
+2010,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,2,
+2010,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,2,
+2009,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Numbers,7,
+2009,5136628,270,Highland,Muck Primary School,Primary,trend,Teacher Numbers (FTE),1,
+2009,5136628,270,Highland,Muck Primary School,Primary,trend,Pupil Teacher Ratio,7,
+2009,5136628,270,Highland,Muck Primary School,Primary,trend,Average Class,7,
