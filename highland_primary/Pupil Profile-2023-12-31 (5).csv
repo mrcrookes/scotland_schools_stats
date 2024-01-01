@@ -1,0 +1,88 @@
+year,seed_code,la_code,la_name,school_name,school_type,measure_category,measure,value,chart_label
+2021,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,12,
+2021,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.9,
+2021,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,6.5,
+2021,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,12,
+2022,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,12,
+2022,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.8,
+2022,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,6.6,
+2022,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,12,
+2022,5113229,270,Highland,Applecross Primary School,Primary,sex,Female,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,sex,Male,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,stage,P1,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,stage,P2,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,stage,P3,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,stage,P4,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,stage,P5,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,stage,P6,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,stage,P7,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,additional_support_needs,ASN,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,additional_support_needs,No ASN,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,english_additional_language,EAL,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,english_additional_language,No EAL,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,deprivation,SIMD Unknown,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,deprivation,SIMD Q1,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,deprivation,SIMD Q2,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,deprivation,SIMD Q3,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,deprivation,SIMD Q4,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,deprivation,SIMD Q5,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,ethnicity,Ethnicity Not Known,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,ethnicity,Ethnic Minority,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,ethnicity,White UK,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,ethnicity,White Other,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,urban_rural,Urban Rural Not Known,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,urban_rural,Rural,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,urban_rural,Small Town,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,urban_rural,Urban,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,gaelic,Taught in Gaelic,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,gaelic,Not Taught in Gaelic,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,free_school_meals,FSM,c,c
+2022,5113229,270,Highland,Applecross Primary School,Primary,free_school_meals,No FSM,c,c
+2020,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,10,
+2020,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.9,
+2020,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,5.3,
+2020,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,10,
+2019,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,11,
+2019,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.6,
+2019,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,6.9,
+2019,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,11,
+2018,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,10,
+2018,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.6,
+2018,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,6.5,
+2018,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,10,
+2017,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,8,
+2017,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2017,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,5.3,
+2017,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,8,
+2016,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,8,
+2016,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.3,
+2016,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,6.2,
+2016,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,8,
+2015,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,11,
+2015,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1,
+2015,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,10.9,
+2015,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,11,
+2014,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,10,
+2014,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.3,
+2014,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,7.5,
+2014,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,10,
+2013,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,8,
+2013,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1,
+2013,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,8,
+2013,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,8,
+2012,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,8,
+2012,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.2,
+2012,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,6.7,
+2012,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,8,
+2011,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,10,
+2011,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.3,
+2011,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,7.8,
+2011,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,10,
+2010,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,11,
+2010,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1.1,
+2010,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,10.3,
+2010,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,11,
+2009,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Numbers,14,
+2009,5113229,270,Highland,Applecross Primary School,Primary,trend,Teacher Numbers (FTE),1,
+2009,5113229,270,Highland,Applecross Primary School,Primary,trend,Pupil Teacher Ratio,14,
+2009,5113229,270,Highland,Applecross Primary School,Primary,trend,Average Class,14,

@@ -1,0 +1,88 @@
+year,seed_code,la_code,la_name,school_name,school_type,measure_category,measure,value,chart_label
+2021,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,13,
+2021,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2021,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,8.7,
+2021,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,13,
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,9,
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),1.6,
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,5.6,
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,9,
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,sex,Female,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,sex,Male,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,stage,P1,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,stage,P2,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,stage,P3,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,stage,P4,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,stage,P5,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,stage,P6,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,stage,P7,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,additional_support_needs,ASN,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,additional_support_needs,No ASN,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,english_additional_language,EAL,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,english_additional_language,No EAL,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,deprivation,SIMD Unknown,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,deprivation,SIMD Q1,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,deprivation,SIMD Q2,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,deprivation,SIMD Q3,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,deprivation,SIMD Q4,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,deprivation,SIMD Q5,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,ethnicity,Ethnicity Not Known,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,ethnicity,Ethnic Minority,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,ethnicity,White UK,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,ethnicity,White Other,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,urban_rural,Urban Rural Not Known,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,urban_rural,Rural,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,urban_rural,Small Town,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,urban_rural,Urban,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,gaelic,Taught in Gaelic,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,gaelic,Not Taught in Gaelic,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,free_school_meals,FSM,c,c
+2022,5114926,270,Highland,Ferintosh Primary School,Primary,free_school_meals,No FSM,c,c
+2020,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,14,
+2020,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),2.5,
+2020,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,5.6,
+2020,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,14,
+2019,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,10,
+2019,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2019,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,6.7,
+2019,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,10,
+2018,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,9,
+2018,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2018,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,6,
+2018,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,9,
+2017,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,8,
+2017,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2017,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,5.3,
+2017,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,8,
+2016,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,7,
+2016,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),1.6,
+2016,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,4.4,
+2016,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,7,
+2015,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,9,
+2015,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2015,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,6,
+2015,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,9,
+2014,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,11,
+2014,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2014,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,7.3,
+2014,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,11,
+2013,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,16,
+2013,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),2.1,
+2013,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,7.6,
+2013,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,8,
+2012,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,21,
+2012,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),3,
+2012,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,7,
+2012,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,10.5,
+2011,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,26,
+2011,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),2.7,
+2011,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,9.7,
+2011,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,13,
+2010,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,32,
+2010,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),3,
+2010,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,10.7,
+2010,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,16,
+2009,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Numbers,33,
+2009,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Teacher Numbers (FTE),2.9,
+2009,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Pupil Teacher Ratio,11.4,
+2009,5114926,270,Highland,Ferintosh Primary School,Primary,trend,Average Class,16.5,

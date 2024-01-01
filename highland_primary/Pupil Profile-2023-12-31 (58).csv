@@ -1,0 +1,88 @@
+year,seed_code,la_code,la_name,school_name,school_type,measure_category,measure,value,chart_label
+2021,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,4,
+2021,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),1.8,
+2021,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,2.3,
+2021,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,4,
+2022,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,3,
+2022,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),1.8,
+2022,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,1.7,
+2022,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,3,
+2022,5108020,270,Highland,Durness Primary School,Primary,sex,Female,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,sex,Male,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,stage,P1,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,stage,P2,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,stage,P3,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,stage,P4,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,stage,P5,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,stage,P6,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,stage,P7,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,additional_support_needs,ASN,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,additional_support_needs,No ASN,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,english_additional_language,EAL,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,english_additional_language,No EAL,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,deprivation,SIMD Unknown,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,deprivation,SIMD Q1,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,deprivation,SIMD Q2,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,deprivation,SIMD Q3,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,deprivation,SIMD Q4,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,deprivation,SIMD Q5,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,ethnicity,Ethnicity Not Known,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,ethnicity,Ethnic Minority,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,ethnicity,White UK,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,ethnicity,White Other,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,urban_rural,Urban Rural Not Known,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,urban_rural,Rural,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,urban_rural,Small Town,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,urban_rural,Urban,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,gaelic,Taught in Gaelic,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,gaelic,Not Taught in Gaelic,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,free_school_meals,FSM,c,c
+2022,5108020,270,Highland,Durness Primary School,Primary,free_school_meals,No FSM,c,c
+2020,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,6,
+2020,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2020,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,4,
+2020,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,6,
+2019,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,8,
+2019,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),1.7,
+2019,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,4.7,
+2019,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,8,
+2018,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,9,
+2018,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),1.7,
+2018,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,5.3,
+2018,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,9,
+2017,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,11,
+2017,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2017,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,7.4,
+2017,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,11,
+2016,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,11,
+2016,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),1.4,
+2016,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,7.9,
+2016,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,5.5,
+2015,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,15,
+2015,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),2.3,
+2015,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,6.5,
+2015,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,7.5,
+2014,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,17,
+2014,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),1.9,
+2014,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,8.9,
+2014,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,8.5,
+2013,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,19,
+2013,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),2.3,
+2013,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,8.2,
+2013,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,9.5,
+2012,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,22,
+2012,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),2.7,
+2012,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,8.3,
+2012,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,11,
+2011,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,25,
+2011,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),2.8,
+2011,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,9.1,
+2011,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,12.5,
+2010,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,24,
+2010,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),3.2,
+2010,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,7.5,
+2010,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,12,
+2009,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Numbers,23,
+2009,5108020,270,Highland,Durness Primary School,Primary,trend,Teacher Numbers (FTE),3,
+2009,5108020,270,Highland,Durness Primary School,Primary,trend,Pupil Teacher Ratio,7.6,
+2009,5108020,270,Highland,Durness Primary School,Primary,trend,Average Class,11.5,

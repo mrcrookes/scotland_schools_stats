@@ -1,0 +1,88 @@
+year,seed_code,la_code,la_name,school_name,school_type,measure_category,measure,value,chart_label
+2021,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,24,
+2021,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.4,
+2021,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,10,
+2021,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,12,
+2022,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,20,
+2022,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.5,
+2022,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,7.9,
+2022,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,10,
+2022,5112729,270,Highland,Gledfield Primary School,Primary,sex,Female,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,sex,Male,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,stage,P1,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,stage,P2,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,stage,P3,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,stage,P4,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,stage,P5,35%,
+2022,5112729,270,Highland,Gledfield Primary School,Primary,stage,P6,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,stage,P7,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,additional_support_needs,ASN,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,additional_support_needs,No ASN,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,english_additional_language,EAL,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,english_additional_language,No EAL,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,deprivation,SIMD Unknown,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,deprivation,SIMD Q1,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,deprivation,SIMD Q2,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,deprivation,SIMD Q3,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,deprivation,SIMD Q4,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,deprivation,SIMD Q5,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,ethnicity,Ethnicity Not Known,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,ethnicity,Ethnic Minority,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,ethnicity,White UK,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,ethnicity,White Other,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,urban_rural,Urban Rural Not Known,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,urban_rural,Rural,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,urban_rural,Small Town,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,urban_rural,Urban,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,gaelic,Taught in Gaelic,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,gaelic,Not Taught in Gaelic,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,free_school_meals,FSM,c,c
+2022,5112729,270,Highland,Gledfield Primary School,Primary,free_school_meals,No FSM,c,c
+2020,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,28,
+2020,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.4,
+2020,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,11.7,
+2020,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,14,
+2019,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,28,
+2019,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),3.7,
+2019,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,7.5,
+2019,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,14,
+2018,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,27,
+2018,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),3.4,
+2018,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,7.9,
+2018,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,13.5,
+2017,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,26,
+2017,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.4,
+2017,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,10.8,
+2017,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,13,
+2016,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,21,
+2016,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.4,
+2016,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,8.8,
+2016,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,10.5,
+2015,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,18,
+2015,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.1,
+2015,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,8.6,
+2015,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,9,
+2014,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,25,
+2014,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.7,
+2014,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,9.3,
+2014,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,12.5,
+2013,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,28,
+2013,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2013,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,10.8,
+2013,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,14,
+2012,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,25,
+2012,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.5,
+2012,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,10,
+2012,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,12.5,
+2011,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,29,
+2011,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.8,
+2011,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,10.5,
+2011,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,14.5,
+2010,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,29,
+2010,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2010,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,11.2,
+2010,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,14.5,
+2009,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Numbers,37,
+2009,5112729,270,Highland,Gledfield Primary School,Primary,trend,Teacher Numbers (FTE),2.9,
+2009,5112729,270,Highland,Gledfield Primary School,Primary,trend,Pupil Teacher Ratio,12.8,
+2009,5112729,270,Highland,Gledfield Primary School,Primary,trend,Average Class,18.5,

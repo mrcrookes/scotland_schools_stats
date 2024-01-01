@@ -1,0 +1,88 @@
+year,seed_code,la_code,la_name,school_name,school_type,measure_category,measure,value,chart_label
+2021,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,19,
+2021,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.3,
+2021,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,8.1,
+2021,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,9.5,
+2022,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,18,
+2022,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.2,
+2022,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,8.4,
+2022,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,9,
+2022,5100127,270,Highland,Bower Primary School,Primary,sex,Female,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,sex,Male,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,stage,P1,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,stage,P2,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,stage,P3,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,stage,P4,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,stage,P5,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,stage,P6,38.9%,
+2022,5100127,270,Highland,Bower Primary School,Primary,stage,P7,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,additional_support_needs,ASN,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,additional_support_needs,No ASN,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,english_additional_language,EAL,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,english_additional_language,No EAL,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,deprivation,SIMD Unknown,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,deprivation,SIMD Q1,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,deprivation,SIMD Q2,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,deprivation,SIMD Q3,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,deprivation,SIMD Q4,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,deprivation,SIMD Q5,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,ethnicity,Ethnicity Not Known,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,ethnicity,Ethnic Minority,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,ethnicity,White UK,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,ethnicity,White Other,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,urban_rural,Urban Rural Not Known,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,urban_rural,Rural,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,urban_rural,Small Town,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,urban_rural,Urban,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,gaelic,Taught in Gaelic,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,gaelic,Not Taught in Gaelic,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,free_school_meals,FSM,c,c
+2022,5100127,270,Highland,Bower Primary School,Primary,free_school_meals,No FSM,c,c
+2020,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,19,
+2020,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.2,
+2020,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,8.8,
+2020,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,9.5,
+2019,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,21,
+2019,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.8,
+2019,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,7.6,
+2019,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,10.5,
+2018,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,32,
+2018,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2018,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,12.3,
+2018,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,16,
+2017,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,36,
+2017,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2017,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,13.6,
+2017,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,18,
+2016,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,36,
+2016,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2016,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,13.8,
+2016,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,18,
+2015,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,41,
+2015,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.2,
+2015,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,18.3,
+2015,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,20.5,
+2014,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,42,
+2014,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),3,
+2014,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,14,
+2014,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,21,
+2013,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,40,
+2013,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2013,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,15.3,
+2013,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,20,
+2012,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,43,
+2012,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2012,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,16.5,
+2012,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,21.5,
+2011,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,40,
+2011,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.7,
+2011,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,14.8,
+2011,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,20,
+2010,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,39,
+2010,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.9,
+2010,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,13.4,
+2010,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,19.5,
+2009,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Numbers,30,
+2009,5100127,270,Highland,Bower Primary School,Primary,trend,Teacher Numbers (FTE),2.7,
+2009,5100127,270,Highland,Bower Primary School,Primary,trend,Pupil Teacher Ratio,11.1,
+2009,5100127,270,Highland,Bower Primary School,Primary,trend,Average Class,15,

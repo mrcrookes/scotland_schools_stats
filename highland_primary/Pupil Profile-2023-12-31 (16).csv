@@ -1,0 +1,88 @@
+year,seed_code,la_code,la_name,school_name,school_type,measure_category,measure,value,chart_label
+2021,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,23,
+2021,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.1,
+2021,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,11.1,
+2021,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,11.5,
+2022,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,17,
+2022,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.1,
+2022,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,8.1,
+2022,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,17,
+2022,5137829,270,Highland,Balnain Primary School,Primary,sex,Female,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,sex,Male,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,stage,P1,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,stage,P2,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,stage,P3,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,stage,P4,35.3%,
+2022,5137829,270,Highland,Balnain Primary School,Primary,stage,P5,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,stage,P6,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,stage,P7,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,additional_support_needs,ASN,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,additional_support_needs,No ASN,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,english_additional_language,EAL,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,english_additional_language,No EAL,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,deprivation,SIMD Unknown,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,deprivation,SIMD Q1,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,deprivation,SIMD Q2,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,deprivation,SIMD Q3,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,deprivation,SIMD Q4,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,deprivation,SIMD Q5,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,ethnicity,Ethnicity Not Known,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,ethnicity,Ethnic Minority,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,ethnicity,White UK,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,ethnicity,White Other,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,urban_rural,Urban Rural Not Known,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,urban_rural,Rural,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,urban_rural,Small Town,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,urban_rural,Urban,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,gaelic,Taught in Gaelic,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,gaelic,Not Taught in Gaelic,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,free_school_meals,FSM,c,c
+2022,5137829,270,Highland,Balnain Primary School,Primary,free_school_meals,No FSM,c,c
+2020,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,25,
+2020,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.4,
+2020,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,10.4,
+2020,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,12.5,
+2019,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,30,
+2019,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.7,
+2019,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,11.1,
+2019,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,15,
+2018,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,29,
+2018,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2018,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,11.2,
+2018,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,14.5,
+2017,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,31,
+2017,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2017,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,11.9,
+2017,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,15.5,
+2016,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,34,
+2016,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2016,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,13.1,
+2016,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,17,
+2015,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,36,
+2015,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2,
+2015,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,18,
+2015,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,18,
+2014,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,28,
+2014,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.2,
+2014,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,12.7,
+2014,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,14,
+2013,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,31,
+2013,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.2,
+2013,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,14.1,
+2013,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,15.5,
+2012,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,32,
+2012,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.3,
+2012,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,13.9,
+2012,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,16,
+2011,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,33,
+2011,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.5,
+2011,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,13.3,
+2011,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,16.5,
+2010,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,38,
+2010,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.4,
+2010,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,15.7,
+2010,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,19,
+2009,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Numbers,39,
+2009,5137829,270,Highland,Balnain Primary School,Primary,trend,Teacher Numbers (FTE),2.4,
+2009,5137829,270,Highland,Balnain Primary School,Primary,trend,Pupil Teacher Ratio,16.1,
+2009,5137829,270,Highland,Balnain Primary School,Primary,trend,Average Class,9.8,

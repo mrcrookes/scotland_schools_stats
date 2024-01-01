@@ -1,0 +1,88 @@
+year,seed_code,la_code,la_name,school_name,school_type,measure_category,measure,value,chart_label
+2021,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,14,
+2021,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),1.3,
+2021,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,10.9,
+2021,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,14,
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,11,
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),0.7,
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,15.7,
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,11,
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,sex,Female,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,sex,Male,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,stage,P1,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,stage,P2,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,stage,P3,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,stage,P4,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,stage,P5,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,stage,P6,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,stage,P7,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,additional_support_needs,ASN,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,additional_support_needs,No ASN,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,english_additional_language,EAL,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,english_additional_language,No EAL,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,deprivation,SIMD Unknown,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,deprivation,SIMD Q1,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,deprivation,SIMD Q2,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,deprivation,SIMD Q3,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,deprivation,SIMD Q4,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,deprivation,SIMD Q5,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,ethnicity,Ethnicity Not Known,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,ethnicity,Ethnic Minority,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,ethnicity,White UK,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,ethnicity,White Other,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,urban_rural,Urban Rural Not Known,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,urban_rural,Rural,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,urban_rural,Small Town,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,urban_rural,Urban,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,gaelic,Taught in Gaelic,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,gaelic,Not Taught in Gaelic,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,free_school_meals,FSM,c,c
+2022,5113024,270,Highland,Achiltibuie Primary School,Primary,free_school_meals,No FSM,c,c
+2020,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,13,
+2020,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),1.5,
+2020,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,8.7,
+2020,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,13,
+2019,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,13,
+2019,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),0.9,
+2019,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,14.4,
+2019,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,13,
+2018,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,16,
+2018,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),2,
+2018,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,8,
+2018,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,16,
+2017,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,12,
+2017,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),1.4,
+2017,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,8.6,
+2017,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,12,
+2016,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,15,
+2016,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),1.4,
+2016,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,10.7,
+2016,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,15,
+2015,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,11,
+2015,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),1.3,
+2015,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,8.5,
+2015,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,11,
+2014,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,14,
+2014,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),1.8,
+2014,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,7.6,
+2014,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,14,
+2013,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,13,
+2013,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),1.3,
+2013,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,9.8,
+2013,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,13,
+2012,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,20,
+2012,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),2.3,
+2012,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,8.7,
+2012,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,10,
+2011,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,20,
+2011,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),2.1,
+2011,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,9.6,
+2011,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,10,
+2010,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,24,
+2010,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2010,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,9.2,
+2010,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,12,
+2009,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Numbers,25,
+2009,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Teacher Numbers (FTE),2.6,
+2009,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Pupil Teacher Ratio,9.6,
+2009,5113024,270,Highland,Achiltibuie Primary School,Primary,trend,Average Class,12.5,
