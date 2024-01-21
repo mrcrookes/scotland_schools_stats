@@ -10,4 +10,4 @@ Folder of some spreadsheets of the output data: <br />
 
 https://drive.google.com/drive/u/0/folders/1F8EjeOsZzjO5Hu3izn1tLJeGr06I4F60
 
-If you clone this project with all of the excel files from the request in the ./Summary Statistics for Schools in Scotland/ folder it should hopefully work.<br />
+If you clone this project with all of the folders of excel files it should hopefully work.<br />
