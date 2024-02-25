@@ -10,6 +10,7 @@ Code to disintangle data from:  <br/>
 https://www.gov.scot/collections/school-education-statistics/#summarystatisticsforschoolsinscotland  <br/>
 https://scotland.shinyapps.io/sg-secondary_school_information_dashboard/  <br/>
 https://www.gov.scot/publications/pupil-census-supplementary-statistics/ <br/>
+https://www.gov.scot/publications/teacher-census-supplementary-statistics/ <br/>
 
 Folder of some spreadsheets of the output data:  <br/>
 
